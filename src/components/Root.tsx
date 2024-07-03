@@ -1,5 +1,5 @@
 import { SDKProvider, useLaunchParams } from '@tma.js/sdk-react';
-import { type FC, useEffect, useMemo } from 'react';
+import { type FC, useEffect } from 'react';
 import { App } from '@/components/App.tsx';
 import { ErrorBoundary } from '@/components/ErrorBoundary.tsx';
 
